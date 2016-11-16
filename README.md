@@ -8,7 +8,7 @@ Returns JSON describing switch status.
 
 ```json
 {
-    open: boolean
+    "open": true
 }
 ```
 
